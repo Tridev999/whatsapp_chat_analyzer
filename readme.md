@@ -3,6 +3,7 @@
 Ever wondered what your WhatsApp conversations can tell you about your messaging habits? This project explores that idea by turning exported WhatsApp chats into useful insights through data analysis and machine learning.
 
 I built this project using Python and Streamlit to make chat analysis simple and interactive. Users can explore messaging activity, identify communication patterns, visualize sentiment, and better understand the trends hidden in their conversations.
+Deployed Link - https://whatsappanalyzerdev.streamlit.app/
 
 ## What can it do?
 - **Chat Statistics:** Get an overview of conversations, message counts, and messaging activity.
@@ -58,7 +59,7 @@ It also helped me understand that real-world text data can be messy and that mac
 
 - Add an AI chatbot to answer questions about chat statistics.
 - Evaluate sentiment predictions using precision, recall, F1-score, and a confusion matrix.
-- Add more interactive visualizations and communication trends.
+- Make this project to work with IOS devices 12 hour format.
 - Try to increase the sentiment analysis with more accuracy with english + hinglish
 ## About Me
 
